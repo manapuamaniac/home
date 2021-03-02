@@ -22,9 +22,8 @@ Team members and info are in '_config.yml'
 Images are in '/img/team/'
 
 
-# Demo
+# Website
 
-View this jekyll theme in action [here](https://y7kim.github.io/agency-jekyll-theme)
+View our website [here](https://manapuamaniac.github.io/home/)
 
-=========
-For more details, read [documentation](http://jekyllrb.com/)
+
