@@ -13,19 +13,12 @@ people:
   pic: me
   position: ICS Senior
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+
 
 - name: Len Nguyen
   pic: picture
   position: ICS Junior
   social:
-    - title: twitter
-      url: #
     - title: github
       url: https://len-nguyen.github.io
     - title: linkedin
@@ -35,12 +28,7 @@ people:
   pic: pf
   position: ACM Senior
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
