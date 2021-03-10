@@ -4,10 +4,12 @@ subtitle: Game Ideas
 layout: default
 modal-id: 1
 date: 2021-03-1
-img: dreams.png
-thumbnail: blank.png
+img: Capture.PNG
+thumbnail: Capture-thumbnail.png
 alt: image-alt
 project-date: March 2021
+client: Miro
+category: Brainstorming
 description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
 
 ---
