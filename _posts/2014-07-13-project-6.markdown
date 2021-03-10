@@ -1,6 +1,6 @@
 ---
-title: Final Release
-subtitle: Look At All The New Features!
+title: Prototype
+subtitle: Working Game to be Tested
 layout: default
 modal-id: 6
 date: 2014-07-15
