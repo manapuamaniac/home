@@ -14,6 +14,7 @@ thumbnail: game-concept-thumbnail.png
 project-date: March 2021
 client: Unity
 category: Game Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+trello: Progress of Game
+description: During the game development, the player is in a deep foggy forest and their objective is to escape before something happens. Here is a concept of how a player can move when in peril by switching with a object but it's tied to the stamina system and once depleted they have to wait until its recharged. The switching mechanic has a certain distance the player can switch with.
 
 ---
