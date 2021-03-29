@@ -7,7 +7,6 @@ date: 2021-03-1
 img: Capture.PNG
 img2: brainstorm.PNG
 thumbnail: Capture-thumbnail.png
-alt: image-alt
 project-date: March 2021
 client: Miro
 category: Brainstorming

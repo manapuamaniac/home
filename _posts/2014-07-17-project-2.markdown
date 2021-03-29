@@ -9,7 +9,6 @@ img2: demon2a.png
 img3: demon3a.png
 img4: demon4a.png
 thumbnail: demon1a-thumbnail.png
-alt: image-alt
 project-date: April 2014
 client: Blender
 category: 3D Modeling
