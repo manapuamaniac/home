@@ -3,13 +3,17 @@ title: Game Development
 subtitle: Game Concepts
 layout: default
 modal-id: 3
-date: 2014-07-16
-img: golden.png
-thumbnail: blank.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
+date: 2021-03-28
+img: header2.PNG
+img2: map.PNG
+img3: map2.PNG
+img4: map3.PNG
+img5: character-moving.gif
+img6: character-switching.gif
+thumbnail: game-concept-thumbnail.png
+project-date: March 2021
+client: Unity
+category: Game Development
 description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
 
 ---

@@ -3,13 +3,13 @@ title: Visual Development
 subtitle: Character Creation
 layout: default
 modal-id: 2
-date: 2014-07-17
+date: 2021-03-28
 img: demon1a.png
 img2: demon2a.png
 img3: demon3a.png
 img4: demon4a.png
 thumbnail: demon1a-thumbnail.png
-project-date: April 2014
+project-date: March 2021
 client: Blender
 category: 3D Modeling
 trello: Progress of Game
