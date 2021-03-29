@@ -18,7 +18,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/img" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ics427-project" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -38,10 +38,10 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1700" y="455" key="FileChooserDialogImpl" timestamp="1614599832573">
+    <state x="1700" y="455" key="FileChooserDialogImpl" timestamp="1616392831119">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="1700" y="455" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1614599832573" />
+    <state x="1700" y="455" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1616392831119" />
     <state x="1699" y="436" width="585" height="801" key="find.popup" timestamp="1615349347906">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
