@@ -3,7 +3,7 @@ title: Game Development
 subtitle: Game Concepts
 layout: default
 modal-id: 3
-date: 2021-03-28
+date: 2014-07-16
 img: header2.PNG
 img2: map.PNG
 img3: map2.PNG

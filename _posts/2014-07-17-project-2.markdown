@@ -3,7 +3,7 @@ title: Visual Development
 subtitle: Character Creation
 layout: default
 modal-id: 2
-date: 2021-03-28
+date: 2014-07-17
 img: demon1a.png
 img2: demon2a.png
 img3: demon3a.png
