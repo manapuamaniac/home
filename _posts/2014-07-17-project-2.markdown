@@ -8,11 +8,14 @@ img: demon1a.png
 img2: demon2a.png
 img3: demon3a.png
 img4: demon4a.png
+img5: child.png
+img6: log.png
 thumbnail: demon1a-thumbnail.png
 project-date: March 2021
-client: Blender
+client: Autodesk Maya, Substance Painter
 category: 3D Modeling
 trello: Progress of Game
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: Modeled three enemy characters with consideration for different attributes such as the big muscled enemy with slow movement speed, and the small-footed enemy with fast movement speed. Modeled a faceless child and textured with dirt to convey it has been walking around the forest environment. Modeled a big log and boulder for the objects the player could switch positions with. Textured to blend in with the environment but slightly brightened to help player differentiate switchable/non-switchable objects.
+
 
 ---
