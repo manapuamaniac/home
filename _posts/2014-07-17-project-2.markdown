@@ -6,9 +6,9 @@ modal-id: 2
 date: 2014-07-17
 img: demon1a.png
 img2: demon2a.png
-img3: demon3a.png
-img4: demon4a.png
-img5: child.png
+img3: demon4a.png
+img4: child.png
+img5: girl.png
 img6: log.png
 thumbnail: demon1a-thumbnail.png
 project-date: March 2021
