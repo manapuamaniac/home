@@ -2,7 +2,7 @@
 title: Progress
 subtitle: What's been done so far?
 layout: default
-modal-id: 4
+modal-id: 6
 date: 2014-07-15
 img: treehouse.png
 thumbnail: blank.png
