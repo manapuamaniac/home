@@ -21,12 +21,6 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/img/about" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Len Nguyen\Documents\GitHub\home\img\about" />
-      <recent name="C:\Users\Len Nguyen\Documents\GitHub\home\img\portfolio" />
-      <recent name="C:\Users\Len Nguyen\Documents\GitHub\home\img" />
-      <recent name="C:\Users\Len Nguyen\Documents\GitHub\home\img\team" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Len Nguyen\Documents\GitHub\home\img\portfolio" />
       <recent name="C:\Users\Len Nguyen\Documents\GitHub\home\img" />
@@ -34,12 +28,22 @@
       <recent name="C:\Users\Len Nguyen\Documents\GitHub\home\img\about" />
       <recent name="C:\Users\Len Nguyen\Documents\GitHub\home\img\logos" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Len Nguyen\Documents\GitHub\home\img\about" />
+      <recent name="C:\Users\Len Nguyen\Documents\GitHub\home\img\portfolio" />
+      <recent name="C:\Users\Len Nguyen\Documents\GitHub\home\img" />
+      <recent name="C:\Users\Len Nguyen\Documents\GitHub\home\img\team" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="1665" y="502" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1617927017670">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1665" y="502" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2560.1400@0.0.2560.1400" timestamp="1617927017670" />
     <state x="1700" y="455" key="FileChooserDialogImpl" timestamp="1616392831119">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>

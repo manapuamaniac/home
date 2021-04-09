@@ -4,11 +4,12 @@ subtitle: Working Game to be Tested
 layout: default
 modal-id: 4
 date: 2014-07-15
-video: https://www.youtube.com/embed/tgbNymZ7vqY
-thumbnail: map2.PNG
+video: https://youtu.be/m5sz0iKZxaE
+thumbnail: prototype_thumbnail.png
 project-date: April 2021
 client: Unity
 category: Game Development
+trello: Progress of Game
 description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
 
 ---
