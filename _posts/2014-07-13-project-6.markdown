@@ -1,15 +1,15 @@
 ---
-title: Prototype
-subtitle: Working Game to be Tested
+title: Progress
+subtitle: What's been done so far?
 layout: default
-modal-id: 4
+modal-id: 6
 date: 2014-07-15
-video: https://youtu.be/m5sz0iKZxaE
-thumbnail: prototype_thumbnail.png
-project-date: April 2021
-client: Unity
-category: Game Development
-trello: Progress of Game
+img: startup-framework.png
+thumbnail: blank.png
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
 description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
 
 ---
