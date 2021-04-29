@@ -11,6 +11,7 @@ project-date: March 2021
 client: Miro
 category: Brainstorming
 trello: Progress of Game
+miro: Brainstorm/Storyboard
 description: Our group had a team meeting to discuss what kind of game to make and we made a lot good ideas for our upcoming game. Things like gameplay mechanics, goals, world building, etc. were all discussed in the meeting and we gave feedback to each one of them and decide if we like it or not. After the meeting, our team decided to choose a horror theme set in a 3D forest with a game mechanic of swapping the player with animate and inanimate objects but this idea can be changed in the upcoming future.
 
 ---
