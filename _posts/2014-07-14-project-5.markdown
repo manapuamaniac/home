@@ -4,12 +4,21 @@ subtitle: Look At All The New Features!
 layout: default
 modal-id: 5
 date: 2014-07-14
-img: startup-framework.png
-thumbnail: blank.png
+img: mainmenu.PNG
+img2: hint1.PNG
+img3: cemetary.PNG
+img4: girlwalk.PNG
+img5: hands.PNG
+img6: flower.PNG
+thumbnail: mainmenu_thumbnail.png
 alt: image-alt
+video: https://www.youtube.com/embed/m5sz0iKZxaE
+video1: https://www.youtube.com/embed/m5sz0iKZxaE
 project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+client: Unity
+category: Game Development
+trello: Progress of Game
+miro: Brainstorm/Storyboard
+description: The final release of our game is here! It's titled Play With Me and the game concept is that the player is lost in the foggy forest where he finds a unusual girl talking to him, once encountered the player runs deeper into the forest and has to find clues about what's going on currently to piece together a story while also finding a way to escape the forest by collecting items. It involves a examination system, inventory, etc. that allowed players to feel that they are actually in the forest. Beware when collecting these items as it may anger the girl and will take your life by force.
 
 ---
