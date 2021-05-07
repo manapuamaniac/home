@@ -15,6 +15,7 @@ project-date: March 2021
 client: Autodesk Maya, Substance Painter
 category: 3D Modeling
 trello: Progress of Game
+game: Download Game
 miro: Brainstorm/Storyboard
 description: Modeled three enemy characters with consideration for different attributes such as the big muscled enemy with slow movement speed, and the small-footed enemy with fast movement speed. Modeled a faceless child and textured with dirt to convey it has been walking around the forest environment. Modeled a big log and boulder for the objects the player could switch positions with. Textured to blend in with the environment but slightly brightened to help player differentiate switchable/non-switchable objects.
 

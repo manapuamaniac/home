@@ -10,6 +10,7 @@ project-date: April 2021
 client: Unity
 category: Game Development
 trello: Progress of Game
+game: Download Game
 miro: Brainstorm/Storyboard
 description: Prototype of our game that features audio cues at the start of the game and when walking through there are options to pick up items and use them for events like the tombstone. As we develop the game there will be more objectives to complete like walking through the lake to collect a certain item. We have received many comments about our game that users like and disliked and will be further improved in the final game.
 

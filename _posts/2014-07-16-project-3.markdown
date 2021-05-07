@@ -15,6 +15,7 @@ project-date: March 2021
 client: Unity
 category: Game Development
 trello: Progress of Game
+game: Download Game
 miro: Brainstorm/Storyboard
 description: During the game development, the player is in a deep foggy forest and their objective is to escape before something happens. Here is a concept of how a player can move when in peril by switching with a object but it's tied to the stamina system and once depleted they have to wait until its recharged. The switching mechanic has a certain distance the player can switch with.
 

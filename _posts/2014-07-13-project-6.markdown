@@ -15,6 +15,7 @@ project-date: April 2021
 client: Unity
 category: Game Development
 trello: Progress of Game
+game: Download Game
 miro: Brainstorm/Storyboard
 description: After we had introduced the prototype to the class there were great feedback on how to further improve the game but one of the highlights that was mentioned in the prototype was the sound effects that were used to make the game have a creepy feel. In the current state we have updated the player model so it can walk through the terrain more easily, decided to use the girl as the main enemy and updated her looks to have empty eye sockets which was commented in our prototype reveal, objectives around the map, a cemetery, etc.
 
