@@ -12,8 +12,8 @@ img5: hands.PNG
 img6: flower.PNG
 thumbnail: mainmenu_thumbnail.png
 alt: image-alt
-video: https://www.youtube.com/embed/m5sz0iKZxaE
-video1: https://www.youtube.com/embed/m5sz0iKZxaE
+video: https://www.youtube.com/embed/C4BYm-WssY4
+video1: https://www.youtube.com/embed/jgZLBuu-ub4
 project-date: April 2014
 client: Unity
 category: Game Development
