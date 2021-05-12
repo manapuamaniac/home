@@ -4,8 +4,12 @@ subtitle: Game Ideas
 layout: default
 modal-id: 1
 date: 2021-03-01
-img: Capture.PNG
-img2: brainstorm.PNG
+img: brainstorm.PNG
+img2: enemies.png
+img3: handSketch.png
+img4: items.png
+img5: tpSwitch.png
+img6: setting.png
 thumbnail: Capture-thumbnail.png
 project-date: March 2021
 client: Miro

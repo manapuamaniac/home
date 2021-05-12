@@ -13,6 +13,31 @@
                     <div class="col-lg-8 col-lg-offset-2">
                         <div class="modal-body">
                             <h2>{{ post.title }}</h2>
+                          <ul class="list-inline item-details">
+                            <li>Client:
+                              <strong>{{ post.client }}</a>
+                              </strong>
+                            </li>
+                            <li>Date:
+                              <strong>{{ post.project-date }}</a>
+                              </strong>
+                            </li>
+                            <li>Category:
+                              <strong>{{ post.category }}</a>
+                              </strong>
+                            </li>
+                            <li>Miro:
+                              <strong><a href="https://miro.com/app/board/o9J_lTPfmX8=/">{{ post.miro }}</a>
+                            <li>Trello:
+                              <strong><a href="https://trello.com/b/OkZ6FHJb/manapua">{{ post.trello }}</a>
+                              </strong>
+                            </li>
+                            <li>Game:
+                              <strong><a href="https://drive.google.com/file/d/1LCFJu5AmTQuCeBR_qS4dxiHJW3MCpikY/view?usp=sharing">{{ post.game }}</a>
+                              </strong>
+                            </li>
+                          </ul>
+                          <p>{{ post.description }}</p>
                             <hr class="star-primary">
                             <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
                           <img src="img/portfolio/{{ post.img2 }}" class="img-responsive img-centered" alt="{{ post.alt }}">
@@ -27,31 +52,6 @@
                                   src="{{ post.video1 }}" style="border:none;"allowfullscreen>
                           </iframe>
 
-                            <p>{{ post.description }}</p>
-                            <ul class="list-inline item-details">
-                                <li>Client:
-                                    <strong>{{ post.client }}</a>
-                                    </strong>
-                                </li>
-                                <li>Date:
-                                    <strong>{{ post.project-date }}</a>
-                                    </strong>
-                                </li>
-                                <li>Category:
-                                    <strong>{{ post.category }}</a>
-                                    </strong>
-                                </li>
-                              <li>Miro:
-                                <strong><a href="https://miro.com/app/board/o9J_lTPfmX8=/">{{ post.miro }}</a>
-                              <li>Trello:
-                                <strong><a href="https://trello.com/b/OkZ6FHJb/manapua">{{ post.trello }}</a>
-                                </strong>
-                              </li>
-                              <li>Game:
-                                <strong><a href="https://drive.google.com/file/d/1LCFJu5AmTQuCeBR_qS4dxiHJW3MCpikY/view?usp=sharing">{{ post.game }}</a>
-                                </strong>
-                              </li>
-                            </ul>
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
                         </div>
                     </div>

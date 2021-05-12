@@ -14,7 +14,7 @@ thumbnail: mainmenu_thumbnail.png
 alt: image-alt
 video: https://www.youtube.com/embed/C4BYm-WssY4
 video1: https://www.youtube.com/embed/jgZLBuu-ub4
-project-date: April 2014
+project-date: May 2021
 client: Unity
 category: Game Development
 trello: Progress of Game
